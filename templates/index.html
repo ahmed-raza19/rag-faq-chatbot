@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FAQ Chatbot</title>
+    <link rel="stylesheet" href="/static/chat.css" />
+</head>
+
+<body>
+    <div class="chat-container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>FAQ Assistant</h2>
+                <p class="sidebar-note">Powered by AI & vector search</p>
+            </div>
+            <div class="suggested-questions">
+                <p class="sidebar-label">Quick questions</p>
+                <button class="suggestion-btn" data-question="What is your refund policy?">
+                    📦 Refund Policy
+                </button>
+                <button class="suggestion-btn" data-question="How do I track my order?">
+                    📍 Track Order
+                </button>
+                <button class="suggestion-btn" data-question="What are your shipping options?">
+                    🚚 Shipping Options
+                </button>
+                <button class="suggestion-btn" data-question="How do I contact customer support?">
+                    💬 Contact Support
+                </button>
+            </div>
+            <div class="sidebar-footer">
+                <button id="clear-btn" class="clear-history-btn">Clear history</button>
+            </div>
+        </aside>
+
+        <main class="chat-main">
+            <div class="chat-header">
+                <h1>Smart FAQ Assistant</h1>
+                <p>Ask me anything from our knowledge base</p>
+            </div>
+
+            <div id="messages" class="messages-container"></div>
+
+            <div class="chat-input-area">
+                <form id="chat-form">
+                    <div class="input-wrapper">
+                        <input id="user-message" type="text" placeholder="Ask a question..." autocomplete="off" />
+                        <button type="submit" class="send-btn" id="send-btn">Send</button>
+                    </div>
+                    <p id="chat-feedback" class="chat-feedback"></p>
+                </form>
+            </div>
+        </main>
+    </div>
+
+    <script src="/static/chat.js"></script>
+</body>
+
+</html>

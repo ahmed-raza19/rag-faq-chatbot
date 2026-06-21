@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What are your business hours?",
+    "answer": "Our support team is available Monday to Friday, 9 AM to 6 PM (PKT). We are closed on public holidays."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Go to the login page, click 'Forgot Password', and enter your registered email. You'll receive a reset link valid for 30 minutes."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "We offer a full refund within 14 days of purchase if the product is unused and in its original packaging. Refunds are processed within 5-7 business days."
+  },
+  {
+    "question": "Do you offer international shipping?",
+    "answer": "Yes, we ship to over 40 countries. International orders typically take 7-14 business days to arrive, and customs fees may apply depending on your country."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "Once your order ships, you'll receive a tracking number by email. You can track your package directly on our website under 'My Orders'."
+  },
+  {
+    "question": "Can I change or cancel my order after placing it?",
+    "answer": "Orders can be modified or cancelled within 1 hour of placement by contacting support. After that, the order enters processing and cannot be changed."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit/debit cards, bank transfers, and major mobile wallets. Cash on delivery is available in select regions."
+  },
+  {
+    "question": "Do you offer a warranty on products?",
+    "answer": "Most products come with a 1-year manufacturer warranty covering defects. Warranty does not cover accidental damage or misuse."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us via the in-app chat, email at support@example.com, or by phone during business hours."
+  },
+  {
+    "question": "Is there a mobile app available?",
+    "answer": "Yes, our app is available on both iOS and Android. Search for our company name on the App Store or Google Play Store."
+  },
+  {
+    "question": "Do you offer student or bulk discounts?",
+    "answer": "Yes, students get a 10% discount with a valid student ID, and bulk orders over 50 units qualify for tiered pricing. Contact sales for a custom quote."
+  },
+  {
+    "question": "What should I do if I received a damaged item?",
+    "answer": "Please contact support within 48 hours of delivery with photos of the damaged item. We'll arrange a free replacement or full refund."
+  }
+]
