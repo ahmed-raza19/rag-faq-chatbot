@@ -158,6 +158,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <div align="center">
 
-**Built by [Ahmed Raza]* *· [GitHub](https://github.com/ahmed-raza19) · [LinkedIn](https://www.linkedin.com/in/ahmed-raza-baa81b299/)
+*Built by Ahmed Raza*· [GitHub](https://github.com/ahmed-raza19) · [LinkedIn](https://www.linkedin.com/in/ahmed-raza-baa81b299/)
 
 </div>
